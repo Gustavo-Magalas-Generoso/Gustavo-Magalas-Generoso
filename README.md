@@ -49,9 +49,9 @@
 ## 📊 GitHub Stats
 
 <!-- Substitua o nome de usuário com o seu no GitHub -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oTalDoMagalas&show_icons=true&theme=dark&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oTalDoMagalas&layout=compact&theme=dark&border_radius=10)
-![Profile Views](https://komarev.com/ghpvc/?username=oTalDoMagalas&label=Visualiza%C3%A7%C3%B5es%20de%20Perfil&color=0e75b6&style=flat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Magalas-Generoso&show_icons=true&theme=dark&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Magalas-Generoso&layout=compact&theme=dark&border_radius=10)
+![Profile Views](https://komarev.com/ghpvc/?username=Gustavo-Magalas-Generoso&label=Visualiza%C3%A7%C3%B5es%20de%20Perfil&color=0e75b6&style=flat)
 
 ---
 
@@ -72,13 +72,13 @@
 
 ---
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oTalDoMagalas&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="180" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Magalas-Generoso&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="180" alt="activity-graph graph"  />
 </div>
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oTalDoMagalas/oTalDoMagalas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oTalDoMagalas/oTalDoMagalas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oTalDoMagalas/oTalDoMagalas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavo-Magalas-Generoso/Gustavo-Magalas-Generoso/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavo-Magalas-Generoso/Gustavo-Magalas-Generoso/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gustavo-Magalas-Generoso/Gustavo-Magalas-Generoso/output/github-contribution-grid-snake.svg">
 </picture>
